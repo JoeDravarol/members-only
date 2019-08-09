@@ -4,4 +4,6 @@ Members-only is an exclusive clubhouse website where its members can write posts
 
 This project is focused on authentication and authorization. The authentication used in this app is created from scratch with the help of [bycrypt gem](https://rubygems.org/gems/bcrypt/versions/3.1.12).
 
+View the app [here](https://immense-spire-31480.herokuapp.com/)
+
 Created as part of The Odin Project's [curriculum](https://www.theodinproject.com/courses/ruby-on-rails/lessons/authentication?ref=lnav#project-2-members-only)
