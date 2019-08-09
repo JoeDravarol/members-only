@@ -32,7 +32,7 @@ class PostsController < ApplicationController
     def signed_in_user
       unless signed_in?
         flash[:danger] = "Please sign in"
-        redirect_to root_path
+        redirect_to new_session_path
       end
     end
 end
